@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts on Pipi&#39;s Blog</title>
+    <link>https://staylowkey888.github.io/tags/thoughts/</link>
+    <description>Recent content in thoughts on Pipi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://staylowkey888.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orientation</title>
+      <link>https://staylowkey888.github.io/posts/orientation/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://staylowkey888.github.io/posts/orientation/</guid>
+      <description>Hello World 第一篇文章 一級標題二級標題六級標題練習粗體文字 練習斜體文字 有序序列 哇啦啦啦 蛋糕結構! 呵呵呵 無序序列 how are u? 序列裡面的序列 引用文字 呈現文字小</description>
+    </item>
+    
+  </channel>
+</rss>
