@@ -16,5 +16,14 @@
       <description>Hello World 第一篇文章 一級標題二級標題六級標題練習粗體文字 練習斜體文字 有序序列 哇啦啦啦 蛋糕結構! 呵呵呵 無序序列 how are u? 序列裡面的序列 引用文字 呈現文字小</description>
     </item>
     
+    <item>
+      <title>Second post</title>
+      <link>https://staylowkey888.github.io/posts/orientationtypora/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://staylowkey888.github.io/posts/orientationtypora/</guid>
+      <description>生活紀錄1print(&amp;#34;hello earth&amp;#34;) 2print(&amp;#34;hello earth&amp;#34;) 我喜歡看書 缺點:不能放images裡片的圖，建議回到VS code再加上圖片。 熟能生巧!!</description>
+    </item>
+    
   </channel>
 </rss>

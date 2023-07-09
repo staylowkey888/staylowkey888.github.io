@@ -17,21 +17,21 @@
     </item>
     
     <item>
+      <title>Second post</title>
+      <link>https://staylowkey888.github.io/posts/orientationtypora/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://staylowkey888.github.io/posts/orientationtypora/</guid>
+      <description>生活紀錄1print(&amp;#34;hello earth&amp;#34;) 2print(&amp;#34;hello earth&amp;#34;) 我喜歡看書 缺點:不能放images裡片的圖，建議回到VS code再加上圖片。 熟能生巧!!</description>
+    </item>
+    
+    <item>
       <title>Rich Content</title>
       <link>https://staylowkey888.github.io/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://staylowkey888.github.io/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://staylowkey888.github.io/posts/orientationtypora/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://staylowkey888.github.io/posts/orientationtypora/</guid>
-      <description>生活紀錄1print(&amp;#34;hello earth&amp;#34;) 2print(&amp;#34;hello earth&amp;#34;) 缺點:不能放images裡片的圖，建議回到VS code再加上圖片。</description>
     </item>
     
   </channel>
