@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pipi&#39;s Blog</title>
-    <link>https://staylowkey888.github.io/categories/</link>
+    <link>https://stalowkey888.github.io/categories/</link>
     <description>Recent content in Categories on Pipi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://staylowkey888.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language><atom:link href="https://stalowkey888.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

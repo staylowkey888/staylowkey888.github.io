@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pipi&#39;s Blog</title>
-    <link>https://staylowkey888.github.io/posts/</link>
+    <link>https://stalowkey888.github.io/posts/</link>
     <description>Recent content in Posts on Pipi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://staylowkey888.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Orientation</title>
-      <link>https://staylowkey888.github.io/posts/orientation/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://staylowkey888.github.io/posts/orientation/</guid>
-      <description>Hello World 第一篇文章 一級標題二級標題六級標題練習粗體文字 練習斜體文字 有序序列 哇啦啦啦 蛋糕結構! 呵呵呵 無序序列 how are u? 序列裡面的序列 引用文字 呈現文字小</description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stalowkey888.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second post</title>
-      <link>https://staylowkey888.github.io/posts/orientationtypora/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <link>https://stalowkey888.github.io/posts/orientationtypora/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://staylowkey888.github.io/posts/orientationtypora/</guid>
+      <guid>https://stalowkey888.github.io/posts/orientationtypora/</guid>
       <description>生活紀錄1print(&amp;#34;hello earth&amp;#34;) 2print(&amp;#34;hello earth&amp;#34;) 我喜歡看書 缺點:不能放images裡片的圖，建議回到VS code再加上圖片。 熟能生巧!!</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://staylowkey888.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>安靜辭職</title>
+      <link>https://stalowkey888.github.io/posts/orientation/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://staylowkey888.github.io/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>https://stalowkey888.github.io/posts/orientation/</guid>
+      <description>安靜辭職(01):序幕這像是個神祕又偉大的計畫，已經一起籌畫了兩年多。一切看似如常運轉、沒有異狀。 安靜與低調也是漸漸學習來的。安靜下來的時候</description>
+    </item>
+    
+    <item>
+      <title>笑看過往</title>
+      <link>https://stalowkey888.github.io/posts/rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://stalowkey888.github.io/posts/rich-content/</guid>
+      <description>笑看過往即便靈魂深處知曉：終究每個人都是要踏上自己的路途，然而過分的心軟總讓捨離變得困難，令人不知不覺墜入泥淖，動彈不得。當鼓起勇氣、奮力地</description>
     </item>
     
   </channel>
