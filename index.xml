@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pipi&#39;s World</title>
+    <title>Racoon&#39;s World</title>
     <link>https://stalowkey888.github.io/</link>
-    <description>Recent content on Pipi&#39;s World</description>
+    <description>Recent content on Racoon&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stalowkey888.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stalowkey888.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>對於身心健康的思考</title>
+      <link>https://stalowkey888.github.io/posts/0730health/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://stalowkey888.github.io/posts/0730health/</guid>
+      <description>對於健康的觀察與想法 這張圖概括了現階段的我對於健康的想法。或許以後的探索與體悟會更透徹，但還是想說紀錄一下現在的想法，與有緣人分享。而我當初</description>
+    </item>
+    
     <item>
       <title>回家之路：身心修復實作</title>
       <link>https://stalowkey888.github.io/posts/0725health/</link>
@@ -41,15 +50,6 @@
       
       <guid>https://stalowkey888.github.io/posts/0711retrospection/</guid>
       <description>笑看過往即便靈魂深處知曉：終究每個人都是要踏上自己的路途，然而過分的心軟總讓捨離變得困難，令人不知不覺墜入泥淖，動彈不得。當鼓起勇氣、奮力地</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://stalowkey888.github.io/posts/0729weekend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stalowkey888.github.io/posts/0729weekend/</guid>
-      <description></description>
     </item>
     
   </channel>
