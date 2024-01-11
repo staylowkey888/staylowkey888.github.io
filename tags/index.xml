@@ -1,45 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Racoon&#39;s World</title>
+    <title>Tags on 日日好日-城市僻靜</title>
     <link>https://stalowkey888.github.io/tags/</link>
-    <description>Recent content in Tags on Racoon&#39;s World</description>
+    <description>Recent content in Tags on 日日好日-城市僻靜</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stalowkey888.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stalowkey888.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023</title>
-      <link>https://stalowkey888.github.io/tags/2023/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <title>2024</title>
+      <link>https://stalowkey888.github.io/tags/2024/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://stalowkey888.github.io/tags/2023/</guid>
+      <guid>https://stalowkey888.github.io/tags/2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>thoughts</title>
-      <link>https://stalowkey888.github.io/tags/thoughts/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <title>January</title>
+      <link>https://stalowkey888.github.io/tags/january/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://stalowkey888.github.io/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>health</title>
-      <link>https://stalowkey888.github.io/tags/health/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://stalowkey888.github.io/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movie</title>
-      <link>https://stalowkey888.github.io/tags/movie/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://stalowkey888.github.io/tags/movie/</guid>
+      <guid>https://stalowkey888.github.io/tags/january/</guid>
       <description></description>
     </item>
     
